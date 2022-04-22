@@ -1,3 +1,9 @@
+Оригинальный репозиторий Druid  
+https://github.com/apache/druid   
+
+Архитектура и Реверс инжинириг Druid   
+https://drive.google.com/drive/folders/1DD0CcTAdMEj6c6I0lYYv18x1a1AdAPD0   
+
 <!--
   ~ Licensed to the Apache Software Foundation (ASF) under one
   ~ or more contributor license agreements.  See the NOTICE file
